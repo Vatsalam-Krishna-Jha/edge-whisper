@@ -5,7 +5,7 @@ No internet connection is required at any point. The system captures speech,
 transcribes it locally using Whisper, generates a response using an on-device LLM,
 and transmits the answer wirelessly to a phone via Bluetooth Low Energy (BLE).
 
-**Team:** Santhoshkrishna Chezhian & Vatsalam Krishna Jha
+**Team:** Vatsalam Krishna Jha (vkj2107) & Santhoshkrishna Chezhian (sc5772)
 
 ---
 
