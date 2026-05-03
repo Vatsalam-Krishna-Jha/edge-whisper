@@ -1,0 +1,10 @@
+pywhispercpp
+sounddevice
+numpy
+webrtcvad-wheels
+bless
+llama-cpp-python
+psutil
+setuptools
+matplotlib
+pandas
