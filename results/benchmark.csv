@@ -1,0 +1,51 @@
+model,category,question,answer,total_time_s,completion_tokens,prompt_tokens,tokens_per_second,peak_ram_mb,quality_score
+Llama-3.2-1B-Q4,factual,What is the capital of Australia?,The capital of Australia is Canberra.,0.676,7,65,10.36,1708.4,5
+Llama-3.2-1B-Q4,factual,Who painted the Mona Lisa?,"The Mona Lisa was painted by Leonardo da Vinci, an Italian artist, between 1503 and 1506.",1.829,23,64,12.58,1709.8,5
+Llama-3.2-1B-Q4,factual,What is the chemical symbol for gold?,The chemical symbol for gold is Au.,0.767,8,66,10.43,1711.3,5
+Llama-3.2-1B-Q4,factual,How many planets are in our solar system?,"There are eight planets in our solar system: Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter. Pluto was previously considered a planet but reclassified as a dwarf planet in 2006.",3.416,45,67,13.17,1712.8,2
+Llama-3.2-1B-Q4,math,What is 47 multiplied by 13?,47 * 13 = 615.,0.788,8,67,10.15,1714.3,1
+Llama-3.2-1B-Q4,math,"If I have 3 apples and eat 2, how many do I have left?",You have 1 apple left.,0.832,7,76,8.41,1715.7,5
+Llama-3.2-1B-Q4,math,What is 15 percent of 200?,"To find 15% of 200, multiply 200 by 0.15. 200 * 0.15 = 30.",2.284,29,67,12.7,1717.2,5
+Llama-3.2-1B-Q4,define,Define photosynthesis in one sentence.,"Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose, releasing oxygen as a byproduct.",2.746,36,65,13.11,1718.7,5
+Llama-3.2-1B-Q4,define,What is machine learning?,"Machine learning is a subset of artificial intelligence that enables computers to learn from data, identify patterns, and make predictions or decisions without being explicitly programmed.",2.239,29,63,12.95,1720.1,5
+Llama-3.2-1B-Q4,define,What does HTTP stand for?,HTTP stands for Hypertext Transfer Protocol.,0.742,8,64,10.78,1721.6,5
+Llama-3.2-1B-Q4,commsense,Why do people wear sunglasses?,"People wear sunglasses to protect their eyes from:
+
+- UV radiation (sunlight) causing damage and skin cancer
+- Blue light (high-energy visible light) from digital screens and sunlamps
+- Infrared radiation (heat) from the sun
+- Reflections and glare from reflective surfaces",4.315,58,64,13.44,1723.1,4
+Llama-3.2-1B-Q4,commsense,What should I do if I smell smoke at home?,"If you smell smoke at home, evacuate the area immediately, close windows and doors, and call the fire department or emergency services. If you're in a building, alert others and stay away from windows. Do not use elevators.",3.569,47,69,13.17,1724.5,5
+Llama-3.2-1B-Q4,commsense,Why is the sky blue?,"The sky appears blue due to a phenomenon called Rayleigh scattering, where shorter (blue) wavelengths of light are scattered more than longer (red) wavelengths by the tiny molecules of gases in the atmosphere, like nitrogen and oxygen.",3.392,45,64,13.27,1726.0,5
+Llama-3.2-1B-Q4,convo,Tell me a fun fact about octopuses.,"Octopuses have three hearts, one to pump blood to their brain and two to pump blood to their muscles.",1.876,23,68,12.26,1727.5,4
+Llama-3.2-1B-Q4,convo,Suggest a healthy breakfast idea.,"Oatmeal with sliced banana, almond butter, and a splash of low-fat milk, topped with a sprinkle of cinnamon, provides a balanced breakfast with complex carbohydrates, healthy fats, and fiber.",2.956,39,65,13.19,1728.9,4
+Llama-3.2-3B-Q4,factual,What is the capital of Australia?,The capital of Australia is Canberra.,1.693,7,65,4.14,4202.5,5
+Llama-3.2-3B-Q4,factual,Who painted the Mona Lisa?,"The Mona Lisa was painted by the Italian artist Leonardo da Vinci in the early 16th century, specifically between 1503 and 1506.",5.757,30,64,5.21,4202.5,5
+Llama-3.2-3B-Q4,factual,What is the chemical symbol for gold?,"The chemical symbol for gold is Au, which comes from the Latin word ""Aurum.""",3.655,18,66,4.92,4202.5,5
+Llama-3.2-3B-Q4,factual,How many planets are in our solar system?,"There are 8 planets in our solar system: Mercury, Mars, Venus, Earth, Neptune, Uranus, Saturn, and Jupiter. Pluto is no longer considered a planet.",6.851,36,67,5.25,4202.5,4
+Llama-3.2-3B-Q4,math,What is 47 multiplied by 13?,47 × 13 = 611.,2.004,8,67,3.99,4202.5,5
+Llama-3.2-3B-Q4,math,"If I have 3 apples and eat 2, how many do I have left?","You started with 3 apples and ate 2, so you have 3 - 2 = 1 apple left.",5.313,25,76,4.71,4202.5,5
+Llama-3.2-3B-Q4,math,What is 15 percent of 200?,"To find 15% of 200, multiply 200 by 0.15. The result is 30.",4.832,24,67,4.97,4202.5,5
+Llama-3.2-3B-Q4,define,Define photosynthesis in one sentence.,"Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into glucose and oxygen.",5.167,27,65,5.23,4202.5,5
+Llama-3.2-3B-Q4,define,What is machine learning?,Machine learning is a subset of artificial intelligence that enables computers to learn from data and improve their performance on a specific task without being explicitly programmed.,5.326,28,63,5.26,4202.5,5
+Llama-3.2-3B-Q4,define,What does HTTP stand for?,HTTP stands for HyperText Transfer Protocol. It's a standard protocol for transferring data over the internet.,3.945,20,64,5.07,4202.5,5
+Llama-3.2-3B-Q4,commsense,Why do people wear sunglasses?,"People wear sunglasses to protect their eyes from the sun's ultraviolet (UV) rays, which can cause eye damage, cataracts, and increase the risk of eye cancer.",6.796,36,64,5.3,4202.5,4
+Llama-3.2-3B-Q4,commsense,What should I do if I smell smoke at home?,"If you smell smoke at home, turn off all appliances and electronics, close doors to contain the smoke, and evacuate the premises immediately. Call the fire department or local emergency number for assistance.",7.208,38,69,5.27,4202.5,4
+Llama-3.2-3B-Q4,commsense,Why is the sky blue?,"The sky appears blue due to a phenomenon called Rayleigh scattering, where shorter blue wavelengths scatter more than longer wavelengths, scattering sunlight through the atmosphere and reaching our eyes.",6.303,33,64,5.24,4202.5,5
+Llama-3.2-3B-Q4,convo,Tell me a fun fact about octopuses.,"Octopuses have three hearts, which pump blue-green blood, and can lose an arm to escape a predator, then regrow a new one, a unique and remarkable survival mechanism.",7.127,37,68,5.19,4202.6,5
+Llama-3.2-3B-Q4,convo,Suggest a healthy breakfast idea.,"Try a Greek yogurt parfait with mixed berries, granola, and a sprinkle of spinach for a protein-packed breakfast with a boost of fiber and antioxidants.",5.682,30,65,5.28,4204.1,4
+Phi-3-mini-Q4,factual,What is the capital of Australia?,The capital of Australia is Canberra.,2.527,9,39,3.56,5379.5,5
+Phi-3-mini-Q4,factual,Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.,2.973,11,39,3.7,5379.7,5
+Phi-3-mini-Q4,factual,What is the chemical symbol for gold?,"The chemical symbol for gold is Au, derived from the Latin word for gold, ""aurum.""",5.083,20,40,3.93,5380.0,5
+Phi-3-mini-Q4,factual,How many planets are in our solar system?,"There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto is no longer classified as a planet.",10.856,47,42,4.33,5380.5,5
+Phi-3-mini-Q4,math,What is 47 multiplied by 13?,47 multiplied by 13 is 611.,4.139,15,44,3.62,5380.6,5
+Phi-3-mini-Q4,math,"If I have 3 apples and eat 2, how many do I have left?",You would have 1 apple left.,2.905,8,51,2.75,5380.8,5
+Phi-3-mini-Q4,math,What is 15 percent of 200?,15 percent of 200 is 30. (15/100 * 200 = 30),7.632,31,44,4.06,5380.8,5
+Phi-3-mini-Q4,define,Define photosynthesis in one sentence.,Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.,7.889,33,40,4.18,5381.3,5
+Phi-3-mini-Q4,define,What is machine learning?,Machine learning is a field of artificial intelligence that uses algorithms to analyze data and make predictions or decisions without explicit programming.,5.881,24,37,4.08,5381.7,5
+Phi-3-mini-Q4,define,What does HTTP stand for?,HTTP stands for Hypertext Transfer Protocol.,2.616,9,38,3.44,5381.9,5
+Phi-3-mini-Q4,commsense,Why do people wear sunglasses?,"People wear sunglasses to protect their eyes from UV rays, reduce glare, and enhance visual comfort.",6.47,26,41,4.02,5382.2,5
+Phi-3-mini-Q4,commsense,What should I do if I smell smoke at home?,Immediately evacuate the premises. Call your local fire department from a safe distance and do not re-enter the building.,6.983,28,44,4.01,5382.7,5
+Phi-3-mini-Q4,commsense,Why is the sky blue?,"The sky appears blue due to Rayleigh scattering, where shorter blue wavelengths of sunlight are scattered more by the atmosphere than other colors.",7.415,32,38,4.32,5382.9,5
+Phi-3-mini-Q4,convo,Tell me a fun fact about octopuses.,Octopuses have three hearts and blue blood due to copper-based hemocyanin.,4.991,20,42,4.01,5383.2,5
+Phi-3-mini-Q4,convo,Suggest a healthy breakfast idea.,"Consider a Greek yogurt parfait with mixed berries, almonds, and a drizzle of honey for a balanced, nutritious breakfast.",8.515,36,40,4.23,5383.6,5
